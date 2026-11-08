@@ -1,7 +1,7 @@
 # Zayeem
 
-Personal portfolio: publisher monetization, CTV, ad operations and AI workflows.
+Personal portfolio covering publisher monetization, CTV, ad operations and AI-assisted workflows.
 
-Live site: https://mzayeem17.github.io/zayeem/
+[Live portfolio](https://mzayeem17.github.io/zayeem/)
 
-Static HTML, CSS and JavaScript. GitHub Pages publishes main from the repository root. Edit index.html for content, style.css for appearance and script.js for scroll reveals. No build step needed.
+GitHub Pages publishes the root of main. The site uses static HTML, CSS and JavaScript.
